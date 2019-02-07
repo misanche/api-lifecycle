@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "fc90ffef-9947-4317-a26f-874febd5e8e3",
 		"name": "Beer Catalog API copy",
-		"description": "version=0.9 - An API for querying beer catalog of Acme Inc.",
+		"description": "version=1.0 - An API for querying beer catalog of Acme Inc.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
